@@ -1,0 +1,5 @@
+print("Hello and welcome to our application")
+name = input("what is your name \n")
+print("nice to meet you " + name)
+name_length = len(name)
+print(name_length)

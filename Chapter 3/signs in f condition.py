@@ -1,0 +1,6 @@
+# == ( Equal Equal )
+# > ( Greater than )
+# < ( Less than )
+# >= ( Greater than or Equal)
+# <= ( Less than or Equal )
+# != ( Don't equal )
